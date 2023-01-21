@@ -1,11 +1,9 @@
 body {
     background-color: rgb(100, 100, 100);
+    margin: auto;
 }
 
 h {
     color: red;
     font-size: large;
-}
-ul {
-    margin-left: auto;
 }
